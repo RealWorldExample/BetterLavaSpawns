@@ -1,0 +1,6 @@
+{
+	"Name" : "BetterLavaSpawns",
+	"Description" : "Fixes some of the problems spawning on rooftops with the current Northstar riff_floor_is_lava.",
+	"Version": "1.0.0",
+	"LoadPriority": 3
+}
