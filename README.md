@@ -2,7 +2,9 @@
 
 Version 1.0.0 only updates the gamemode _floor_is_lava to exclude spawns that are on buildings and are potentially oob (out of bounds) this makes a huge difference playing on complex, crashsite, and drydock.
 
-In the future needs to add damage to titanpet
+Version 1.1 Revised the spawns in live fire maps, and brought the fog back for Stacks and Deck. The fog on these two maps is still invisible.
+
+In the future needs to add damage to auto-titan
 
 Next needs to exclude spawns outside of walls but not technically oob.
 
